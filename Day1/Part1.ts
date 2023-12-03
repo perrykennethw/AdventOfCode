@@ -47,5 +47,5 @@ function sumOfNumber(numbers: number[]) {
 }
 
 
-adventDayOnePartOne();
+console.log(adventDayOnePartOne());
 
